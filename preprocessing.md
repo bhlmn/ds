@@ -7,12 +7,12 @@ title: 'Data Preprocessing'
 
 An essential part of the ML process.
 
-## 1. Acquiring data
+## 1. Acquire data (mlaz)
 This seems obvious, but what is really important here is collecting the best data available for the job. Are the data:
 * current?
 * extensive?
 
-## 2. Import necessary libraries
+## 2. Import necessary libraries (mlaz)
 Python:
 ```python
 import numpy as np # powerful math/matrix functions
@@ -25,7 +25,7 @@ library(ggplot2) # data visualization
 library(lubridate) # improved date/time handling
 ```
 
-## 3. Importing datasets
+## 3. Import datasets (mlaz)
 1. Ensure that the working directory/directory structure is in order!
 2. Load data
 3. Distinguish between independent variables (features) and dependent variable
