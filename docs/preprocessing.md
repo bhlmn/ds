@@ -117,7 +117,7 @@ Python:
 ```python
 # Split dataset into training and test sets, note that random_state is the python equivalent to R's set.seed(), 
 # and test_size = 0.2 turns 20% of the dataset into the test dataset
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)
 ```
 
