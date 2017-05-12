@@ -140,3 +140,25 @@ df.test <- dataset[!split, ]
 ```
 
 ## 7. Feature scaling (MLA-Z)
+For many types of machine learning models, it is essential to scale (or normalize) features so they all have the same impact on the dependent variable.
+
+Python:
+```python
+# Feature scaling
+from sklearn.preprocessing import StandardScaler
+
+# scale features of X
+sc_X = StandardScaler()
+X_train = sc_X.fit_transform(X_train)
+
+# sc_X is already fitted, only need to transform X_test
+X_test = sc_X.transform(X_test)
+```
+
+R:
+```R
+# Scale numeric columns of training and test set. Note that for small datasets we would want to scale df.test with
+# the same mean and standard deviation as df.train, but for large datasets this shouldn't be an issue
+df.train[2:3] <- scale(df.train[2:3])
+df.test[2:3] <- scale(df.test[2:3])
+```
