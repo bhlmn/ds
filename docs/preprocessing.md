@@ -79,8 +79,7 @@ dataset$Salary[is.na(dataset$Salary)] <- mean(dataset$Salary, na.rm = TRUE)
 ```
 
 ## 5. Encode categorical data (MLA-Z)
-Python: 
-* Note that in python you have to turn a categorical variable with *n* categories into *n* dummy variables
+Python (Note that in python you have to turn a categorical variable with *n* categories into *n* dummy variables):
 ```python
 # Encode categorical data
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
