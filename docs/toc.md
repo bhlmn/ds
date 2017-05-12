@@ -10,7 +10,7 @@ This page lists the other pages available on this site in an organized fashion. 
 * [Preprocessing](preprocessing.html)
 
 ## Classification
-* [Logistic Regression](logistic_regression.html)
+* [Logistic Regression](logistic-regression.html)
 * Nearest Neighbors (k-NN)
 * Naive Bayes
 * Decision Trees
