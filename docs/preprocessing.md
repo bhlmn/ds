@@ -49,7 +49,16 @@ R:
 setwd('~/ml/data/')
 ```
 
-## 4. Handle missing data (MLA-Z)
+## 4. Handle duplicate data
+This isn't always necessary, but for some datasets duplicates can be a nuisance!
+
+R:
+```R
+# remove duplicates
+df <- df[!duplicated(df),]
+```
+
+## 5. Handle missing data (MLA-Z)
 * We *could* delete observations with missing data *if* we have sufficient observations.
 * Imputation, e.g. fill in missing data with average of a column
 
@@ -78,7 +87,7 @@ dataset$Age[is.na(dataset$Age)] <- mean(dataset$Age, na.rm = TRUE)
 dataset$Salary[is.na(dataset$Salary)] <- mean(dataset$Salary, na.rm = TRUE)
 ```
 
-## 5. Encode categorical data (MLA-Z)
+## 6. Encode categorical data (MLA-Z)
 Python (Note that in python you have to turn a categorical variable with *n* categories into *n* dummy variables):
 ```python
 # Encode categorical data
@@ -112,7 +121,7 @@ dataset$Purchased <- factor(dataset$Purchased,
                             labels = c(0, 1))
 ```
 
-## 6. Splitting training and test datasets (MLA-Z)
+## 7. Splitting training and test datasets (MLA-Z)
 Python:
 ```python
 # Split dataset into training and test sets, note that random_state is the python equivalent to R's set.seed(), 
@@ -138,7 +147,7 @@ df.train <- dataset[split, ]
 df.test <- dataset[!split, ]
 ```
 
-## 7. Feature scaling (MLA-Z)
+## 8. Feature scaling (MLA-Z)
 For many types of machine learning models, it is essential to scale (or normalize) features so they all have the same impact on the dependent variable.
 
 Python:
