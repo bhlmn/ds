@@ -30,7 +30,7 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 * Kernel SVMs
 
 ### Prediction
-* [Linear Regression](http://nbviewer.jupyter.org/github/bhlmn/ds/blob/master/docs/ml/regression/linear_regression.ipynb)
+* [Linear Regression](http://nbviewer.jupyter.org/github/bhlmn/ds/blob/master/docs/ml/prediction/linear_regression.ipynb)
 * Multivariate Linear Regression
 * Polynomial Regression
 * Support Vector Regression (SVR)
