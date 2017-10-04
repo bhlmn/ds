@@ -30,7 +30,78 @@ def function_name(parameter1, parameter2):
     return final_variable
 ```
 
-Lists - _this is where I left off!_
+Lists
+``` python
+list1 = [1, 2, 3, 4, 5]
+list2 = ['a', 'b', 'c', 'd']
+type(list1) # list
+len(list1) # 5
+```
+
+Dictionaries
+``` python
+entrees = {
+    'Filet Mignon' : 29.99,
+    'Big Mac' : 3.99,
+    'Pizza Slice' : 1.99,
+    'Salmon' : 29.99
+}
+entrees['Big Mac'] # 3.99
+
+# We can create dictionaries of dictionaries
+desserts = {
+    'Cake' : 3.49,
+    'Ice Cream' : 1.79
+}
+menu = {
+    'Entrees' : entrees,
+    'Desserts' : desserts
+}
+menu['Entrees']['Big Mac'] # 3.99
+```
+
+## <a name='series'></a>Series
+
+A one column dataframe can be 'squeezed' into a series.
+``` python
+series1 = pd.read_csv('filename1.csv', squeeze=True)
+series2 = pd.read_csv('filename2.csv', usecols=['column1'], squeeze=True)
+```
+
+Several attributes of a pandas series:
+``` python
+series1.values # returns an array of the values
+series1.index # returns the indices
+series1.dtype # type of data in the series
+series1.is_unique # returns False if there are duplicate entries
+series1.shape # number of rows by columns (always 1) in the series
+series1.name # name of the series ... which is mutable!
+series1.name = 'Some new name'
+```
+
+Sorting series values and indices.
+``` python
+series1.sort_values() # sort in ascending order
+series1.sort_values(ascending=False) # but can be in descending order!
+```
+
+By default `sort_values()` returns a copy of the series. To mutate the original:
+``` python
+series1.sort_values(inplace=True)
+series1 = series1.sort_values()
+
+# to return the series to the original, we can sort the index.
+series1.sort_index(inplace=True)
+```
+
+Determine if a value is contained in a series.
+``` python
+value1 in series1 # probably False, because this is equivalent to:
+value1 in series1.index
+
+# instead, do
+value1 in series1.values # True or False
+```
 
 ## <a name='sources'></a>Sources
 
