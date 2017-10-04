@@ -11,6 +11,9 @@ A collection of everything I have learned (and sometimes forget) about the Pytho
 
 * [Python basics](#basics)
 * [Series](#series)
+    * [Basics](#series)
+    * [Math Methods](#series_math)
+    * [Extracting Values](#series_values)
 * [Sources](#sources)
 
 ---
@@ -104,6 +107,48 @@ value1 in series1.index
 
 # instead, do
 value1 in series1.values # True or False
+```
+Return to [Table of Contents](#toc).
+
+### <a name='series_math'></a>Series math methods
+
+``` python
+series1.count() # number of non-NaN values
+series1.sum() # sum all values
+series1.mean() # same as series1.sum() / series1.count()
+series1.std() # standard deviation
+series1.min()
+series1.max()
+series1.median()
+series1.mode()
+
+# Get all of these summary statistics with ...
+series1.describe()
+```
+
+Return to [Table of Contents](#toc).
+
+### <a name='series_values'></a>Extracting values from a series
+
+By position:
+
+``` python
+series1[0] # grab the first value
+series1[[99, 199, 299]] # grab the 100th, 200th, and 300th value
+series1[:50] # grab first 50 values
+series1[-50:] # grab last 50 values
+series1[24:50] # grab 25th through 50th values
+series1[-50:-25] # grab last 50 to last 25 values
+```
+
+By label (if indexed by strings):
+
+``` python
+series1.get('a') # Returns value associated with this key, same as ...
+series1['a']
+
+# can grab tuples of keys
+series1.get(['a', 'b', 'c'])
 ```
 
 Return to [Table of Contents](#toc).
