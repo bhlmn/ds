@@ -22,10 +22,10 @@ When in edit mode (press `enter` to enable):
 
 | Shortcut | Command |
 |:--------:| ------- |
-|shift+tab|Tooltip|
-|cmd+/|Comment/uncomment current or selected lines|
-|shift+enter|Run cell, select below|
-|cmd+enter|Run cell|
+|shift + tab|Tooltip|
+|cmd + /|Comment/uncomment current or selected lines|
+|shift + enter|Run cell, select below|
+|cmd + enter|Run cell|
 
 ## <a name='ssh'></a>Using over SSH
 
