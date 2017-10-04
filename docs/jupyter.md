@@ -21,7 +21,7 @@ When in command mode (press `esc` to enable):
 When in edit mode (press `enter` to enable):
 
 | Shortcut | Command |
-|:--------:|:-------:|
+|:--------:| ------- |
 |shift+tab|Tooltip|
 |cmd+/|Comment/uncomment current or selected lines|
 |shift+enter|Run cell, select below|
