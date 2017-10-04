@@ -6,11 +6,12 @@ title: ML Table of Contents
 # Table of Contents
 This page lists the other pages available on this site in an organized fashion. Unlinked pages are still being built!
 
-## Data Preprocessing
-* [Preprocessing](preprocessing.html)
+## Data Processing
+* [Pandas](pandas.html)
+* Preprocessing
 
 ## Classification
-* [Logistic Regression](logistic-regression.html)
+* Logistic Regression
 * Nearest Neighbors (k-NN)
 * Naive Bayes
 * Decision Trees
