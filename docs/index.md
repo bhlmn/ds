@@ -8,7 +8,7 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 ## IDE
 * [Jupyter Notebook](jupyter.html)
 
-## Data
+## Data Wrangling
 * [Pandas](pandas.html)
 * [Preprocessing](preprocessing.html)
 
@@ -29,8 +29,8 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 * Support Vector Machines (SVM)
 * Kernel SVMs
 
-### Regression
-* Linear Regression
+### Prediction
+* [Linear Regression](ml/prediction/linear_regression.html)
 * Multivariate Linear Regression
 * Polynomial Regression
 * Support Vector Regression (SVR)
