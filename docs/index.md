@@ -5,6 +5,9 @@ title: 'Data Science'
 
 Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.github.io/ds/) page! Here I catalogue and organize all that I know (and want to remember) about data science.
 
+# IDE
+* [Jupyter Notebook](jupyter.html)
+
 ## Data
 * [Pandas](pandas.html)
 * [Preprocessing](preprocessing.html)
