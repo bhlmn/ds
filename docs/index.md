@@ -3,13 +3,18 @@ layout: default
 title: 'Data Science'
 ---
 
-Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.github.io/ds/) page! Here I catalogue and organize all that I know (and want to remember) about data science. 
+Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.github.io/ds/) page! Here I catalogue and organize all that I know (and want to remember) about data science.
 
 ## Data
 * [Pandas](pandas.html)
-* [Preprocessing]()
+* [Preprocessing](preprocessing.html)
 
-## Classification
+## Visualization
+* Tableau
+
+## Machine Learning:
+
+### Classification
 * Logistic Regression
 * Nearest Neighbors (k-NN)
 * Naive Bayes
@@ -18,7 +23,7 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 * Support Vector Machines (SVM)
 * Kernel SVMs
 
-## Regression
+### Regression
 * Linear Regression
 * Multivariate Linear Regression
 * Polynomial Regression
@@ -26,6 +31,6 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 * Decision Tree Regression
 * Random Forest Regression
 
-## Clustering
+### Clustering
 * K-Means
 * Hierarchical
