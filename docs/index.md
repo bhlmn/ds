@@ -17,6 +17,9 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 
 ## Machine Learning:
 
+### Datasets
+* [Housing](ml/data/housing.html)
+
 ### Classification
 * Logistic Regression
 * Nearest Neighbors (k-NN)
