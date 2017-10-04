@@ -18,7 +18,7 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 ## Machine Learning:
 
 ### Datasets
-* [Housing](ml/data/housing.html)
+* [Housing](http://nbviewer.jupyter.org/github/bhlmn/ds/blob/master/docs/ml/data/housing.ipynb)
 
 ### Classification
 * Logistic Regression
