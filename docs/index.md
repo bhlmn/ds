@@ -1,6 +1,31 @@
 ---
 layout: default
-title: 'Machine Learning'
+title: 'Data Science'
 ---
 
-# Coming Soon
+Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.github.io/ds/) page! Here I catalogue and organize all that I know (and want to remember) about data science. 
+
+## Data
+* [Pandas](pandas.html)
+* [Preprocessing]()
+
+## Classification
+* Logistic Regression
+* Nearest Neighbors (k-NN)
+* Naive Bayes
+* Decision Trees
+* Random Forests
+* Support Vector Machines (SVM)
+* Kernel SVMs
+
+## Regression
+* Linear Regression
+* Multivariate Linear Regression
+* Polynomial Regression
+* Support Vector Regression (SVR)
+* Decision Tree Regression
+* Random Forest Regression
+
+## Clustering
+* K-Means
+* Hierarchical
