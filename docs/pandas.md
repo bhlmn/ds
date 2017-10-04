@@ -9,8 +9,28 @@ A collection of everything I have learned (and sometimes forget) about the Pytho
 
 ## Table of Contents
 
+* [Python basics](#basics)
 * [Series](#series)
 * [Sources](#sources)
+
+## <a name='basics'></a>Python Basics
+
+Importing libraries
+``` python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline # plot within jupyter notebook
+```
+
+Defining functions
+``` python
+def function_name(parameter1, parameter2):
+    # do something with the parameters
+    return final_variable
+```
+
+Lists - _this is where I left off!_
 
 ## <a name='sources'></a>Sources
 
