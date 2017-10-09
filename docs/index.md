@@ -13,7 +13,7 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 * [Preprocessing](preprocessing.html)
 
 ## Visualization
-* Tableau
+* [Tableau](tableau.html)
 
 ## Machine Learning:
 
