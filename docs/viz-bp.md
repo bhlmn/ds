@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tableau
+title: Visualization Best Practices
 ---
 
 # Visualization Best Practices
@@ -17,5 +17,3 @@ These are largely inspired by [Andy Kriebel](http://www.datavizdoneright.com). T
 * Include most recent values at end of time series ([ex1](http://www.datavizdoneright.com/2017/05/french-election.html), [ex2](http://www.datavizdoneright.com/2017/06/warriors-vs-cavs.html)).
     * Match to color of label to color of line ([ex1](http://www.datavizdoneright.com/2017/06/warriors-vs-cavs.html)).
     * Include categorical label (if necessary).
-
-Return to [Table of Contents](#toc).
