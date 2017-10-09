@@ -14,6 +14,8 @@ Welcome to [Bryan's](https://bhlmn.github.io/) [Data Science](https://bhlmn.gith
 
 ## Visualization
 * [Tableau](tableau.html)
+* [Best Practices](viz-bp.html)
+* [Links](viz-links.html)
 
 ## Machine Learning:
 
