@@ -1,4 +1,5 @@
-> "The ability to take data—to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it—that’s going to be a hugely important skill in the next decades." - Dr. Hal R. Varian, Chief Economist, Google (2009)
+> "The ability to take data—to be able to understand it, to process it, to extract value from it, to visualize it, to communicate it—that’s going to be a hugely important skill in the next decades."
+> - Dr. Hal R. Varian, Chief Economist, Google (2009)
 
 In describing this _skill_, Dr. Varian immediately breaks it down into five subskills:
 * understand data
