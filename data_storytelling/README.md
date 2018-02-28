@@ -19,6 +19,8 @@ I'm currently reading [Storytelling with Data](http://www.storytellingwithdata.c
 
 ### Articles
 
+* Jim Stikeleather, Harvard Business Review - [How to Tell a Story with Data](https://hbr.org/2013/04/how-to-tell-a-story-with-data)
+
 [Periscopic](http://www.periscopic.com/), a Portland-based data visualization firm, has put out dozens of articles that serve as impressive data storytelling examples (see the Examples section below). Fortunately they have also released some how-to articles that detail their data exploration and storytelling process:
 * [Visualizing Spanish migration: A Case Study for Data Exploration at Periscopic](http://www.periscopic.com/news/visualizing-spanish-migration)
 * [Behind the Scenes: Visualizing 264 Years of Swedish mortality](http://www.periscopic.com/news/visualizing-swedish-mortality)
