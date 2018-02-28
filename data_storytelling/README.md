@@ -16,7 +16,7 @@ Data storytelling has been said to be [the sessential skill every data scientist
 
 ### Books
 
-I'm currently reading [Storytelling with Data](http://www.storytellingwithdata.com/book/) and I highly recommend it. I'll put a concise summary here when I'm finished with it. I have a page of [working notes](https://github.com/bhlmn/ds/edit/master/data_storytelling/storytelling_with_data.md) I'm actively adding to as I read.
+I'm currently reading [Storytelling with Data](http://www.storytellingwithdata.com/book/) and I highly recommend it. I'll put a concise summary here when I'm finished with it. I have a page of [working notes](https://github.com/bhlmn/ds/blob/master/data_storytelling/storytelling_with_data.md) I'm actively adding to as I read.
 
 ### Articles
 
