@@ -13,6 +13,17 @@ Exploratory analysis differs completely from explanatory analysis. The latter is
   * If a live presentation, practice it to many friends and/or colleagues.
   * If a written document, have these same folks read, edit, and make comments. The more iterations the better.
 
-Only *after* these questions have been answered should you start to think: **what data are available that will help make my point?**.
+Only *after* these questions have been answered should you start to think: **what data are available that will help make my point?**
 
 ### The 3-minute story & Big Idea
+
+You should be able to strip the "so-what" down to a paragraph or even *a single sentence*. The 3-minute story is self explanatory, and the author provides a great [example of one](http://www.storytellingwithdata.com/blog/2014/02/the-3-minute-story). A 3-minute story contains the Big Idea, which is an even more concise version of your message.
+
+The Big Idea must:
+* articulate your unique point of view
+* convey what's at stake
+* be a complete sentence.
+
+An example can be found [here](http://www.storytellingwithdata.com/blog/2014/02/whats-big-idea). Identifying (and practicing) your 3-minute story and Big Idea ahead of item not only keeps your story focussed, it provides the ability to tell your story even if your allotted time gets cut in half on the spot!
+
+### Storyboarding
