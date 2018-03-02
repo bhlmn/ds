@@ -12,7 +12,7 @@ This folder focusses on the last two: data visualization and communication. It c
 
 ## Data Storytelling
 
-Data storytelling has been said to be [the sessential skill every data scientist needs](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#45860e2d52ad). It is a skill many data scientists and analysts struggle with, yet the demand for effective data storytelling is only increasing.
+Data storytelling has been said to be [the essential skill every data scientist needs](https://www.forbes.com/sites/brentdykes/2016/03/31/data-storytelling-the-essential-data-science-skill-everyone-needs/#45860e2d52ad). It is a skill many data scientists and analysts struggle with, yet the demand for effective data storytelling is only increasing.
 
 ### Books
 
