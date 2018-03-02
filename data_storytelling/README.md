@@ -39,6 +39,8 @@ I'm currently reading [Storytelling with Data](http://www.storytellingwithdata.c
 
 ### Articles
 
+Andy Kriebel's [Data Viz Done Right](http://www.datavizdoneright.com/) and [VizWiz](http://www.vizwiz.com/) are both excellent resources (both are focussed on Tableau). Data Viz Done Right highlights Data Visualization best practices by finding viz's from around the web and discussing what works (and what doesn't). VizWiz has some great initiatives (such as Workout Wednesday and Makeover Monday) where Andy finds a visualization that could be improved, issues a challenge to the public to improve it, then posts his improved version.
+
 ### Examples
 
 * Periscopic - [U.S. Gun Deaths in 2013](https://guns.periscopic.com/)
