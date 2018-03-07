@@ -27,3 +27,15 @@ The Big Idea must:
 An example can be found [here](http://www.storytellingwithdata.com/blog/2014/02/whats-big-idea). Identifying (and practicing) your 3-minute story and Big Idea ahead of item not only keeps your story focussed, it provides the ability to tell your story even if your allotted time gets cut in half on the spot!
 
 ### Storyboarding
+
+[Storyboarding](http://www.storytellingwithdata.com/blog/2015/8/24/how-i-storyboard) is the process of establishing a structure/visual outline of what you want to communicate. Grab a white-board or table, post-it notes, and/or a plain peice of paper. Write each point of your story on a separate post-it note ... than start organizing! Make sure to have your Big Idea on one of the post-its. It might belong at the end **and** the beginning!
+
+## 2 | Choosing an effective visual
+
+There are many types of visuals, but the author typically uses one of a select list ...
+
+### Simple text
+
+When you only have one or two numbers that you want to communicate, it can be very effective to just put up the number(s)! For example:
+
+![simple text example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0a5e4b0d8b921b03644/1438044325129/1000w/)
