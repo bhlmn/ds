@@ -39,3 +39,44 @@ There are many types of visuals, but the author typically uses one of a select l
 When you only have one or two numbers that you want to communicate, it can be very effective to just put up the number(s)! For example:
 
 ![simple text example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0a5e4b0d8b921b03644/1438044325129/1000w/)
+
+### Tables
+
+### Heatmaps
+
+### Scatterplots
+
+### Line graphs
+
+* Very useful for plotting continuous data, such as time series!
+* Make sure to highlight what is really important!
+* Put categorical labels on the right in matching color.
+* Include final values with the label!
+* Annotate them! Check out [this page](http://www.storytellingwithdata.com/blog/2018/1/22/88-annotated-line-graphs) for 88 examples of annotated line graphs!
+
+![Austin DWIs](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/t/58d55b28e4fcb5243dcd92b2/1490377517580/?format=750w)
+
+### Slopegraphs
+
+* Typically not useful if many of the lines overlap.
+* Make sure to draw attention to what you are trying to communicate.
+
+![slopegraph example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d094e4b0d8b921b0315f/1438044308816/1000w/)
+
+### Bar charts
+
+These are great when dealing with categorical data. Some best practices:
+* Go horizontal if you can! This causes the data to be viewed by the audience naturally (zigzagging from left to right, top to bottom).
+* Place the most important category at the top!
+* **Always** have a zero baseline.
+
+![horizontal bar example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0a0e4b0d8b921b034cd/1438044320231/1000w/)
+![horizontal bar example 2](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/t/5a9868468165f58d088aa27e/1519937609153/Basic+Bars+-+Horizontal.png?format=500w)
+
+Bar charts can also be stacked:
+
+![stacked horizontal bar chart](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/t/5a0b4d0f71c10b438dd70604/1510690072500/Stacked+bar+-+example+from+book.png?format=750w)
+
+Or can be turned into [waterfall charts](http://www.storytellingwithdata.com/blog/2011/11/waterfall-chart):
+
+![waterfall chart](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0b5e4b0d8b921b03993/1438044341235/1000w/)
