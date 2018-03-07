@@ -42,6 +42,11 @@ When you only have one or two numbers that you want to communicate, it can be ve
 
 ### Tables
 
+While not the go to for communicating information (especially for presentations), tables can be the tool of choice in written reports when the audience is mixed (and therefore looking for different things).
+
+* Make sure to minimize borders ... make them really light or get rid of them: highlight just the data!
+* Sort the data in a way that is [meaningful to your audience](http://www.storytellingwithdata.com/blog/2012/01/tables-that-make-sense).
+
 ### Heatmaps
 
 ### Scatterplots
@@ -71,7 +76,7 @@ These are great when dealing with categorical data. Some best practices:
 * **Always** have a zero baseline.
 
 ![horizontal bar example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0a0e4b0d8b921b034cd/1438044320231/1000w/)
-![horizontal bar example 2](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/t/5a9868468165f58d088aa27e/1519937609153/Basic+Bars+-+Horizontal.png?format=500w)
+![horizontal bar example 2](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0b5e4b0d8b921b039a6/1438044341384/1000w/)
 
 Bar charts can also be stacked:
 
