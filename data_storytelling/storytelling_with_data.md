@@ -120,6 +120,8 @@ Thus, if we want to emphasize just *one thing*, then make that *one thing* diffe
 ### Decluttering step by step
 
 [Here](http://www.storytellingwithdata.com/blog/2017/3/29/declutter-this-graph) is a good example. Also check out [this video](https://www.youtube.com/watch?v=X79o46W5plI).
+
 ![declutter example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/t/58dbf3cc59cc68c3b0a33458/1490809812854/?format=1000w)
+
 * In short, take a look at an image and ask, "what can I live without". Choose one thing at a time until you can't lose any more elements.
 * Then think about how the remaining elements can be changed to more effectively tell your story.
