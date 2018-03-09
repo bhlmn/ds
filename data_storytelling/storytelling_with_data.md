@@ -85,3 +85,41 @@ Bar charts can also be stacked:
 Or can be turned into [waterfall charts](http://www.storytellingwithdata.com/blog/2011/11/waterfall-chart):
 
 ![waterfall chart](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0b5e4b0d8b921b03993/1438044341235/1000w/)
+
+### Area charts
+
+Area charts are to be avoided *unless* comparing numbers that differ greatly in magnitude. When this is the case, a square area chart works much better than a typical bar chart:
+
+![square area chart](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d09ee4b0d8b921b03421/1438044318757/1000w/)
+
+Other than that, **don't show area charts** (pie charts, donut charts, etc.). Also, don't use 3D. It might look fancy, but it hurts interpretability.
+
+Also, in case where you are tempred to use a secondary y-axis, *don't do it*! Instead either label the points of the second axis directly or split the graphs vertically, in either case letting them share the same x-axis:
+
+![two y axes](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/55b6d08fe4b0d8b921b02f83/55b6d0b8e4b0d8b921b03a9c/1438044344273/1000w/)
+
+## 3 | Clutter is your enemy
+
+The cognitive supply of your audience is *finite*, and each element you put in front of them drains some of that supply. Thus, you should remove any elemnt whose informational value is outweighted by the cognitive load it demands. The more we remove unnecessary elemtns, the more the data stand out (which is what we want!).
+
+### Maintain visual order
+
+> "When design is thoughtful, it fades into the background so that your audience doesn't even notice it. When it's not, your audience feels the burden."
+
+Some guidelines for maintaining visual order:
+* Upper-left justify text (and put information at the upper left so people see it first!) ... don't center align.
+* Avoid diagonally or vertically oriented text. It takes longer to process.
+* Lighten most text. It isn't the star -- the data are.
+* Pair grouped data and text with colors (try not to draw lines).
+* The more whitespace the better! Whitespace helps draw attention to what *isn't* whitespace.
+
+> "The more things we make different, the less ... [they] stand out."
+
+Thus, if we want to emphasize just *one thing*, then make that *one thing* different from the rest. Don't give all of the groups different colors if you really only want to highlight one of the groups.
+
+### Decluttering step by step
+
+[Here](http://www.storytellingwithdata.com/blog/2017/3/29/declutter-this-graph) is a good example. Also check out [this video](https://www.youtube.com/watch?v=X79o46W5plI).
+![declutter example](https://static1.squarespace.com/static/55b6a6dce4b089e11621d3ed/t/58dbf3cc59cc68c3b0a33458/1490809812854/?format=1000w)
+* In short, take a look at an image and ask, "what can I live without". Choose one thing at a time until you can't lose any more elements.
+* Then think about how the remaining elements can be changed to more effectively tell your story.
