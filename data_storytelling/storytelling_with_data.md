@@ -125,3 +125,55 @@ Thus, if we want to emphasize just *one thing*, then make that *one thing* diffe
 
 * In short, take a look at an image and ask, "what can I live without". Choose one thing at a time until you can't lose any more elements.
 * Then think about how the remaining elements can be changed to more effectively tell your story.
+
+## 4 | Focus your audience's attention
+
+Leverage preattentive attributes so that your audience can pick up the point you are trying to make without having to dedicate any concious thought to it. One preattentive attribute is color, which is helpful in this exercise: how many 3s are in the pictures below?
+
+![3s](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_03_03_pm.png)  ![3s with color](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_03_12_pm.png).
+
+The second image made it *much* easier. Since the 3s stand out, your brain counts them without even trying. Thus, preattentive attributes, when used strategically, *"... enable our audience to see what we want them to see before they even know they're seeing it!"* Here are the many preattentive attributes:
+
+![preattentive attributes](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_03_22_pm.png)
+
+In each one of these examples, we instinctively notice the one element that stands out from the rest. Thus, these attributes should be used sparingly (if everything is made to stand out, nothing will).
+
+### Preattentive attributes with text
+
+With text, color, bold, and italics (in decreasing order) are useful for creating a visual hierarchy. This allows us to display a lot of information, of which its summary can quickly be absorbed. For example:
+
+![visual hierarchy](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_03_50_pm.png)
+
+In this image we can understand key points in only a few seconds (because they stand out), and then we can get more detailed information after our interest is peaked and we already understand the key points.
+
+### Preattentive attributes in figures
+
+Some figures, even after decluttering, can contain overwhelming amounts of information. Devoid of preattentive attributes, the audience is then left to their own devices to process all of this information and discern what we *really* want them to understand. It's up to us to focus the story. Notice the difference in the two images below:
+
+![design concerns](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_00_pm.png)  ![design concerns improved](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_14_pm.png)
+
+In the figure at right it's *much* easier to understand the point of the figure. The presenter wants us to know that noise is a common design concern. This story is all but lost in the original figure, and it only took a small bit of color to focus the story. In live presentation settings, one effective strategy is displaying the same visual again and again with different pieces emphasized to tell different stories or different aspects of a story.
+
+**Note! When one point of a figure is highlighted it becomes more difficult to see the rest of the information. Thus, avoid preattentive attributes during exploratory analysis, as you can miss out on some key insights!"**
+
+Here is a checklist for deciding how to use preattentive attributes to focus your audience's attention on what matters:
+
+1. Declutter
+2. Push everything to the background (so nothing stands out)
+3. Make the data stand out
+4. If you don't want the focus to be the upper left of the figure (that's where eyes go by default!), use preattentive attributes to your advantage
+
+Note how selectively adding data markers and simple color changes focusses the attention to the right side of the graph:
+
+![received-processed-original](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_40_pm.png) ![received-processed-final](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_05_22_pm.png)
+
+#### Size
+
+The size of figure elements intuitively communicates important: big elements grab attention! Thus, if elements have equal importance, make them the same size! Failing to do this can have big consequences!
+
+#### Color
+
+This is one of the best tools in your toolkit. The author recommends designing visuals in shades of grey (allowing for greater contrast), and picking one "attention-grabbing" color (such as blue) to highlight important elements.
+
+When using color:
+* **use it sparingly**.
