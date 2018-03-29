@@ -150,7 +150,7 @@ In this image we can understand key points in only a few seconds (because they s
 
 Some figures, even after decluttering, can contain overwhelming amounts of information. Devoid of preattentive attributes, the audience is then left to their own devices to process all of this information and discern what we *really* want them to understand. It's up to us to focus the story. Notice the difference in the two images below:
 
-![design concerns](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_00_pm.png)  ![design concerns improved](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_14_pm.png)
+![design concerns](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_00_pm.png)  ![design concerns improved](https://kathep.com/site/assets/files/3417/screen_shot_2017-10-16_at_1_04_24_pm.png)
 
 In the figure at right it's *much* easier to understand the point of the figure. The presenter wants us to know that noise is a common design concern. This story is all but lost in the original figure, and it only took a small bit of color to focus the story. In live presentation settings, one effective strategy is displaying the same visual again and again with different pieces emphasized to tell different stories or different aspects of a story.
 
